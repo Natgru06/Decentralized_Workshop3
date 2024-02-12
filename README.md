@@ -18,6 +18,6 @@ this is one of the request that we can send to the ngrok server
 
 Then we make a consensus vote on each of our different model
 
-![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/8b8ac0b4-1a13-4ce1-a02d-b1ac1a06ca56)
+![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/f295a6e1-fef6-4c45-acc8-1eebe26aacca)
 
 
