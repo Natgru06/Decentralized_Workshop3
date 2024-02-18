@@ -21,3 +21,14 @@ Then we make a consensus vote on each of our different model
 ![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/f295a6e1-fef6-4c45-acc8-1eebe26aacca)
 
 
+## B - E-commerce - Importance of redundancy
+
+Q1/Q2 - see the files corresponding
+
+Q3 - We use mysql database 
+
+![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/3983940f-2015-4ee0-9adf-f5acd817e58c)
+
+Q4 - We update our code to connect to the database
+
+![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/5cae4c12-2d0a-4c36-bb7c-02519d377477)
