@@ -32,3 +32,13 @@ Q3 - We use mysql database
 Q4 - We update our code to connect to the database
 
 ![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/5cae4c12-2d0a-4c36-bb7c-02519d377477)
+
+Q7 - This is the change code for synchronous mirroring 
+
+![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/9841c0cb-2a77-430c-a30b-6398a42051ff)
+
+Q8 - This is the change code for asynchronous replication
+
+![image](https://github.com/Natgru06/Decentralized_Workshop3/assets/108078812/ac0e9f99-8570-4b9e-926d-5314e653bb95)
+
+
